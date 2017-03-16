@@ -8,3 +8,9 @@ alert(nationality);
 
 name = "Ghulam Rasool Lakhani";
 nationality = "American";
+
+var weight = 50;
+alert(weight);
+
+weight = weight + 5;
+alert(weight);
