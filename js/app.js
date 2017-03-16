@@ -14,3 +14,6 @@ alert(weight);
 
 weight = weight + 5;
 alert(weight);
+
+var modulus = 9;
+alert("It shows remainder of when 2 divides 9 = " + modulus%2); 
